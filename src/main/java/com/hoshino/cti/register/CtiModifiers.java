@@ -175,4 +175,5 @@ public class CtiModifiers {
     public static final StaticModifier<Anisotropy> ANISOTROPY = MODIFIERS.register("anisotropy", Anisotropy::new);
     public static final StaticModifier<FixVoidTouch> VOID_TOUCH = MODIFIERS.register("void_touch", FixVoidTouch::new);
     public static final StaticModifier<CrystallizingArmor> CRYSTALLIZING_ARMOR = MODIFIERS.register("crystallizing_armor", CrystallizingArmor::new);
+    public static final StaticModifier<CrashDevour> crashDevourStaticModifier = MODIFIERS.register("crashdevour", CrashDevour::new);
 }
