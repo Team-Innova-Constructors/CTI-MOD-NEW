@@ -12,7 +12,7 @@ public class FoSugar extends Item {
                 .fast()
                 .nutrition(4)
                 .saturationMod(1.5f)
-                .effect(()->new MobEffectInstance(effect,1200,0),1)
+                .effect(()->new MobEffectInstance(effect,3600,0),1)
                 .build()
         ));
     }

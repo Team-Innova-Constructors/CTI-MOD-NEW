@@ -20,7 +20,11 @@
   "effect.cti.meteor_shower": "陨石雨",
   "effect.cti.numerical_perception": "数维的感知",
   "effect.cti.curve_mapping": "曲线映射",
-  "effect.cti.supplementary_formula": "补充算式",
+  "effect.cti.strong": "钢躯糖",
+  "effect.cti.heng": "哼将糖",
+  "effect.cti.ha": "哈将糖",
+  "effect.cti.covert": "月隐糖",
+  "effect.cti.nakshatra": "夜叉戮糖",
 
 
   "cti.tooltip.item.shift": "按下 Shift 以获取信息",
@@ -679,9 +683,9 @@
   "modifier.cti.fragment.flavor": "fire in the hole",
   "modifier.cti.fragment.description":"损失耐久提升400%,损失耐久时对周围3格内生物造成损失的耐久的200% + 100% * lv(全身)点伤害,这个伤害会有50%概率伤害到你自己,如果不掉耐久则不造成伤害",
 
-  "modifier.cti.crystallization": "晶体化",
-  "modifier.cti.crystallization.flavor": "融合了就是不一样",
-  "modifier.cti.crystallization.description":"当身上穿有黑曜石装备时候提升其破片伤害倍率2.8 * 此词条总等级倍并且使其无视护甲,同时不会再伤害到自己",
+  "modifier.cti.wearproof": "晶体化",
+  "modifier.cti.wearproof.flavor": "融合了就是不一样",
+  "modifier.cti.wearproof.description":"当身上穿有黑曜石装备时候提升其破片伤害倍率2.8 * 此词条总等级倍并且使其无视护甲,同时不会再伤害到自己",
 
   "modifier.cti.cripplesuppermass": "超级质量",
   "modifier.cti.cripplesuppermass.flavor": "保护效果更上一层楼！",
@@ -765,7 +769,7 @@
 
   "modifier.cti.sugarmaker": "制糖机",
   "modifier.cti.sugarmaker.flavor": "Cti食品有限公司认证",
-  "modifier.cti.sugarmaker.description":"击杀生物后有30%概率掉落佛糖,不同佛糖食用后有不同的属性\n哈将:提高20%全伤害\n哼将:降低20%全伤害\n钢躯:免疫所有击退\n月隐:不会被3格内生物主动索敌锁到\n夜叉戮:降低50%最大生命,受到击退翻倍但是大幅提升伤害",
+  "modifier.cti.sugarmaker.description":"击杀生物后有70%概率掉落佛糖,不同佛糖食用后有不同的属性\n哈将:提高20%全伤害\n哼将:降低20%全伤害\n钢躯:免疫所有击退\n月隐:不会被3格外生物主动索敌锁到\n夜叉戮:降低50%最大生命,受到击退翻倍但是大幅提升伤害",
 
   "modifier.cti.eternity": "永恒",
   "modifier.cti.eternity.flavor": "不朽的 ToolStack",
